@@ -1,6 +1,6 @@
-# Analise do Mercado de Carros_na India
+# Analise do Mercado de Carros na Índia
 
-A análise do mercado de carros na Índia foi feita a partir do dataset X do site Kaggle com o intuito de responder oito (8) possíveis perguntas de negócios aplicadas a essa base de dados. O conjunto de dados contém informações sobre dez grandes marcas de automóveis na índia, abrangendo modelos, tipo de combustível, transmissão, preço, quilometragem, capacidade do motor, capacidade de assentos, e custo anual de serviços. 
+A análise do mercado de carros na Índia Foi feita a partir do dataset presente no site [Kaggle](https://www.kaggle.com/datasets/ak0212/indian-car-market-dataset) o intuito de responder sete (7) possíveis perguntas de negócios aplicadas a essa base de dados. O conjunto de dados contém informações sobre dez grandes marcas de automóveis na índia, abrangendo modelos, tipo de combustível, transmissão, preço, quilometragem, capacidade do motor, capacidade de assentos, e custo anual de serviços. 
 
 As etapas foram dividas em: 
  
